@@ -1,0 +1,17 @@
+{
+    "name": "project-0",
+    "tweaks": [
+        "hide_vscode_icon",
+        "14px_margin_to_topbar",
+        "blur_bg_cmd_palette",
+        "center_tabs",
+        "dynamic_tabs_size",
+        "center_tab_text",
+        "hide_tabs_editor",
+        "hide_layout_changer_buttons",
+        "hide_left_sidebar_buttons",
+        "center_right_sidebar_items",
+        "hide_center_topbar_label",
+        "hide_new_file_and_folder_btns"
+    ]
+}

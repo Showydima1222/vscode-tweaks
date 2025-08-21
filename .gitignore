@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+etc
+>>>>>>> 6423613 (initial)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
 
+<<<<<<< HEAD
+=======
+.vscode
+
+>>>>>>> 6423613 (initial)
 # C extensions
 *.so
 
@@ -204,4 +213,8 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+<<<<<<< HEAD
 __marimo__/
+=======
+__marimo__/
+>>>>>>> 6423613 (initial)
