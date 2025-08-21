@@ -1,5 +1,6 @@
 # VSCode Tweaks
 this program generates for you a .css file and applying it to your vscode if you have installed [Cutsom UI Plguin](https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style)
+![VSCode appearance with enabled all tweaks](assets/vscode.png)
 
 # How to install [WINDOWS WAY]
 You can install executable file builded with pyautoinstaller from releases. This way is easy, but your antivirus can mark this .exe file as virus (not my issue, so you can manually insatll it)
