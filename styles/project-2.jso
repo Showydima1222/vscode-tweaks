@@ -1,4 +1,0 @@
-/* Hide vscode icon */
-.monaco-workbench .part.titlebar>.titlebar-container>.titlebar-left>.window-appicon {
-    display: none !important;
-}
